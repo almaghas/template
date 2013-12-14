@@ -1,0 +1,50 @@
+<!DOCTYPE HTML>
+<head>
+<meta name="description" content="Basic Portfolio">
+<meta name="author" content="name goes here">
+<meta charset="UTF-8">
+<link type="text/css" rel="stylesheet" href="style.css">
+<title>my portfolio</title>
+</head>
+<body>
+	<content>
+		<header>
+		<h1>my portfolio</h1>
+		<ul id="nav">
+			<li><a href="index.html">home</a></li>
+			<li><a href="lived.html">lived <br />experiences</a></li>
+			<li><a href="cultural.html">cultural <br />analysis</a></li>
+			<li><a href="#">formal <br />research</a></li>
+			<li><a href="#">remix</a></li>
+			<li><a href="#">course <br />retrospective</a></li>
+			<li><a href="#">blog</a></li>
+		</ul>
+		</header>
+		<div id="menu">
+			<ul>
+				<li><a href="cultural.html">Executive Summary</a></li>
+				<li><a href="cultural2.html">Introduction</a></li>
+				<li><a href="cultural3.html">Analysis of Artifact</a></li>
+				<li><a href="cultural4.html">Description of Issue</a></li>
+				<li><a href="cultural5.html">Proposed Solution</a></li>
+				<li><a href="cultural6.html">Anticipated Effects</a></li>
+				<li><a href="cultural7.html">Conclusion</a></li>
+			</ul>
+		</div>
+		<article>
+			<h1>Analysis of Artifact</h1>
+			<p>Looking back at the start of GTA game, first one was really basic and 2D really basic and original was based in London. That’s also didn’t change for GTA2. After that, GTA3 came in with the start of the 3D world which made the start of the jump for the game. It has many sub-stories and San Andreas was the most effective and switch to the picture to the start of the gang war and opened the start of improve the cars and specially the classic. In 2008, it introduced the most recent game GTA4 which is the most realistic picture and focused in the physical realistic view in every part of the game in HD world. Also, as same as the last game, this game has multiple sub-story, and each focused on part of story and issue, and in this part, it showed the motorcycle gang with the full view about the issue and without forgetting about the new and improved different kind of guns. </p>
+<p>While looking back at each version of the game, there have been multiple controversies started with the first game, although, GTA3 was the first game which started with the 3D view which made the game more violence and much realistic. In addition, player would pay prostitutes to recover the player health, and in the other hand, the player can kill the prostitutes and get their money back. Also, with all the killing the player would only deal with temporary consequences and that’s all would it take for killing anyone, including police officers. </p>
+<p>In Vice City, the game included an ethnic discrimination which took part in gang wars between Haitian and Cuban, and with multiple lines in the game which point out to that kind of action.</p>
+<p>In San Andreas, the game was criticized for the use of gangster point of view, in which was full of the use of drugs, prostitution, and murder. Although, there was a mini sex game in the game in what caused a lawsuit for the game developer.</p>
+<p>In Grand Theft Auto IV, the game introduced drunk driving, which was a part of the game rating to move it to adult only which was a part from just perverse rating for age 17 and up. At same game, it issue a sup story which is The Lost and Damned, and that which include full-frontal nudity. Also, in Chinatown Wars, the game included drug dealing mini-game which was more realistic in which the player has 6 different kind of drugs and the profit gain would depend on the part of the town, and the market condition. </p>
+<p>In Grand Theft Auto V, the game has a witness torture in one of the mission, which includes: kneecapping, electrocution, dental extraction, and waterboarding.</p>
+
+<p>However, those issues could be really minor comparing to the murders and multiple shooting cases that happened in the last few years made by teenagers and that they claimed that the game was their main inspiration. Even after the multiple lawsuits against the game maker and which fail mostly and cased closed. The main defiance reason to close the case is the First Amendment's free-speech clause. (^ "Rockstar seeks to dismiss GTAIII lawsuit". GameSpot. Retrieved 6 May 2006.)
+</p>
+		</article>
+		<footer>
+		<p>&copy; 2013 [Name goes here]</p>
+		</footer>
+	</content>
+</body>	
